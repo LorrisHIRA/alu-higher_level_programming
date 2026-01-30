@@ -12,4 +12,3 @@ function secondBiggest (args) {
 }
 
 console.log(secondBiggest(args));
-
