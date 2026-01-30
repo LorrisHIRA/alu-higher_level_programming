@@ -9,3 +9,4 @@ if (!Number.isInteger(x)) {
     console.log('C is fun');
   }
 }
+

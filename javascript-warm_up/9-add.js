@@ -7,3 +7,4 @@ function add (a, b) {
 }
 
 add(args[0], args[1]);
+

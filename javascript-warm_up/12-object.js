@@ -11,6 +11,7 @@ myObject.value = 89;
 
 console.log(myObject);
 
+
 // function deepFreeze (obj) {
 //     Object.freeze(obj);
 
@@ -22,3 +23,4 @@ console.log(myObject);
 
 //     return obj;
 // }
+

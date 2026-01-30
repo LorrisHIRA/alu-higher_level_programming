@@ -7,3 +7,4 @@ if (args === undefined) {
 } else {
   console.log(args);
 }
+
